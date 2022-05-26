@@ -1,0 +1,1 @@
+[블로그링크](https://herbi1411.tistory.com/entry/BOJ-N-Queen9663-PYTHON)
