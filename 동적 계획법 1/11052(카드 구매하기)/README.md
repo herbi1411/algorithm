@@ -1,0 +1,1 @@
+[블로그 링크](https://herbi1411.tistory.com/entry/BOJ-%EC%B9%B4%EB%93%9C-%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B011052-PYTHON)
